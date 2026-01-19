@@ -4,25 +4,24 @@
 
 <h3>ABOUT ME</h3>
 
-I'm a versatile developer with experience in building web platforms. \
-I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
-
-
+I'm a software developer specializing in desktop and database applications.  
+I focus on writing clean, maintainable, and efficient code.  
+I enjoy solving problems, learning new technologies, and contributing to projects that make development easier.  
 
 <h3>EXPERIENCE</h3>
 
-I have experience working in both private companies and as a freelancer.
+I have experience working on both personal projects and university assignments.
 
-I've spent most of my time as a developer working with:
+My main skills include:
 
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+- <img src="https://img.shields.io/badge/Java-white?labelColor=black" alt="Java"> <img src="https://img.shields.io/badge/-OOP -- Swing -- JavaFX -- Algorithms -- Multithreading-grey" alt="Java OOP, Swing, JavaFX, Algorithms, Multithreading">
+- <img src="https://img.shields.io/badge/C%23-white?labelColor=black" alt="C#"> <img src="https://img.shields.io/badge/-WinForms -- .NET -- Event Handling -- Database Apps-grey" alt="C# WinForms, .NET, Event Handling, Database Apps">
+- <img src="https://img.shields.io/badge/SQL-white?labelColor=black" alt="SQL"> <img src="https://img.shields.io/badge/-MySQL -- SQLite -- Queries -- CRUD-grey" alt="SQL MySQL, SQLite, Queries, CRUD">
 
 I also have experience with:
 
-- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
-- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
-- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
+- <img src="https://img.shields.io/badge/Version Control-white?labelColor=black" alt="Version Control"> <img src="https://img.shields.io/badge/-Git -- GitHub -- Branching -- Merging-grey" alt="Git, GitHub, Branching, Merging">
+- <img src="https://img.shields.io/badge/Other Tools-white?labelColor=black" alt="Other Tools"> <img src="https://img.shields.io/badge/-Figma -- UML -- Project Planning-grey" alt="Figma, UML, Project Planning">
 
 <h3>MY FRIEND</h3>
 has a message for you...
@@ -30,5 +29,5 @@ has a message for you...
 <br>
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Tip: Focus on mastering your core languages first">
 </div>
