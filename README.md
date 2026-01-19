@@ -1,33 +1,51 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
+  <h1>👋 Hi, I'm Mokhtar!</h1>
+  <p>💻 Software Developer | Java & C# WinForms | SQL Enthusiast</p>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
-<h3>ABOUT ME</h3>
+---
 
-I'm a software developer specializing in desktop and database applications.  
-I focus on writing clean, maintainable, and efficient code.  
-I enjoy solving problems, learning new technologies, and contributing to projects that make development easier.  
+### 🚀 About Me
+I'm a software developer passionate about building desktop apps and databases.  
+I love problem-solving, learning new technologies, and turning ideas into working software.  
 
-<h3>EXPERIENCE</h3>
+---
 
-I have experience working on both personal projects and university assignments.
-
-My main skills include:
-
-- <img src="https://img.shields.io/badge/Java-white?labelColor=black" alt="Java"> <img src="https://img.shields.io/badge/-OOP -- Swing -- JavaFX -- Algorithms -- Multithreading-grey" alt="Java OOP, Swing, JavaFX, Algorithms, Multithreading">
-- <img src="https://img.shields.io/badge/C%23-white?labelColor=black" alt="C#"> <img src="https://img.shields.io/badge/-WinForms -- .NET -- Event Handling -- Database Apps-grey" alt="C# WinForms, .NET, Event Handling, Database Apps">
-- <img src="https://img.shields.io/badge/SQL-white?labelColor=black" alt="SQL"> <img src="https://img.shields.io/badge/-MySQL -- SQLite -- Queries -- CRUD-grey" alt="SQL MySQL, SQLite, Queries, CRUD">
-
-I also have experience with:
-
-- <img src="https://img.shields.io/badge/Version Control-white?labelColor=black" alt="Version Control"> <img src="https://img.shields.io/badge/-Git -- GitHub -- Branching -- Merging-grey" alt="Git, GitHub, Branching, Merging">
-- <img src="https://img.shields.io/badge/Other Tools-white?labelColor=black" alt="Other Tools"> <img src="https://img.shields.io/badge/-Figma -- UML -- Project Planning-grey" alt="Figma, UML, Project Planning">
-
-<h3>MY FRIEND</h3>
-has a message for you...
-
-<br>
-<br>
+### 🛠 Skills
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Tip: Focus on mastering your core languages first">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="40px" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg" alt="C# WinForms" height="40px" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg" alt="SQL" height="40px" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="40px">
+</div>
+
+---
+
+### 🔹 My Projects
+<div align="center">
+  <a href="https://github.com/Mokhtar/Project1" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Project+1" alt="Project 1" style="margin:5px;">
+  </a>
+  <a href="https://github.com/Mokhtar/Project2" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Project+2" alt="Project 2" style="margin:5px;">
+  </a>
+  <a href="https://github.com/Mokhtar/Project3" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3" style="margin:5px;">
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  ![Stats Overview](https://github-readme-stats.vercel.app/api?username=Mokhtar&show_icons=true&theme=radical)
+</div>
+
+---
+
+### 🎯 Fun Tip
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Keep Coding">
+  <p>💡 Keep coding, keep learning!</p>
 </div>
